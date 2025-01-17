@@ -1,0 +1,8 @@
+# Ignore Visual Studio files
+.vs/
+.vs2019/
+.vs2017/
+
+# Ignore other build-related files
+bin/
+obj/
